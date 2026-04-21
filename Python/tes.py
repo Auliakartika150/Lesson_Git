@@ -1,0 +1,1 @@
+print("Aulia Kartika Putri") 
