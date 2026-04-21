@@ -1,2 +1,2 @@
 print("Aulia Kartika Putri")
-print ("Sedang Magang di BRIN")
+print ("Kuliah di Malang")
